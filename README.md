@@ -15,4 +15,5 @@ Works and introduced matplotlib, and plotting on x and y axis
 IC Assignemnt 3: Chapter 3 of Ecology Handbook
 - Making a equation to measure plant population within a certain area
 
-IC Example 2:
+IC Assignment 5: Chapter 5 of Ecology Handbook
+- Mad equations to measure wolf population affected with disease
