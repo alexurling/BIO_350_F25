@@ -17,3 +17,8 @@ IC Assignemnt 3: Chapter 3 of Ecology Handbook
 
 IC Assignment 5: Chapter 5 of Ecology Handbook
 - Mad equations to measure wolf population affected with disease
+
+IC Example4
+- Had some technical issues in the beginning getting conda to run in my terminal but I eventually figured it out.
+-got chatGPT to ranslate the existing code into python and fixed the errors myself.
+
